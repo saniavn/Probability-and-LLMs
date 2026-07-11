@@ -5,8 +5,12 @@ This repository provides a three-session unit for middle school students on how 
 ## Overview
 LLMs generate text one token at a time by assigning probabilities to possible continuations and sampling from those possibilities. Because this process is invisible, users may interpret chatbot responses as fixed, certain, or retrieved directly from the internet.
 
-
 This work connects familiar middle school probability (grade 7) concepts—such as coins, spinners, likelihood, experimental probability, and sampling variability—to LLM text generation.
+
+
+*This visual helps students understand LLM text generation as repeated sampling from context-dependent next-word probabilities.*  
+<img src="./images/figure3-spinners.png" alt="Box of Spinners Metaphor" width="500">
+
 
 ## Curriculum Structure
 The learning journey is designed so learners progress through three distinct stages:
