@@ -14,3 +14,35 @@ The learning journey is designed so learners progress through three distinct sta
 1. **Foundational Probability Activities:** Grounding learners in the basics probability
 2. **Context-Dependent Text Generation:** Using spinner-based activity to simulate how a chatbot chooses the next word.
 3. **Interactive Exploration:** Hands-on experience with a small LLM model and experimenting with text generation.
+
+
+## Resourcses
+<details>
+<summary><b><img src="./folder-yellow.png" alt="Yellow folder icon" height="18" style="vertical-align:middle; margin-right:5px;"> session-1/</b> (Click to expand)</summary>
+<ul>
+  <li><a href="./session-1/slide-deck/"><code>slide-deck/</code></a></li>
+  <li><a href="./session-1/activity-1/"><code>activity-1/</code></a> - (Worksheet)</li>
+  <li><a href="./session-1/activity-2/"><code>activity-2/</code></a> - (Physical and paper-based)</li>
+  <li><a href="./session-1/assessment/"><code>assessment/</code></a></li>
+</ul>
+</details>
+
+<details>
+<summary><b><img src="./folder-yellow.png" alt="Yellow folder icon" height="18" style="vertical-align:middle; margin-right:5px;"> session-2/</b> (Click to expand)</summary>
+<ul>
+  <li><a href="./session-2/slide-deck/"><code>slide-deck/</code></a></li>
+  <li><a href="./session-2/activity-1/"><code>activity-1/</code></a> - (Physical and paper-based)</li>
+  <li><a href="./session-2/activity-2/"><code>activity-2/</code></a> - (Worksheet)</li>
+  <li><a href="./session-2/assessment/"><code>assessment/</code></a></li>
+</ul>
+</details>
+
+<details>
+<summary><b><img src="./folder-yellow.png" alt="Yellow folder icon" height="18" style="vertical-align:middle; margin-right:5px;"> session-3/</b> (Click to expand)</summary>
+<ul>
+  <li><a href="./session-3/slide-deck/"><code>slide-deck/</code></a></li>
+  <li><a href="./session-3/activity-1/"><code>activity-1/</code></a> - (Worksheet)</li>
+  <li><a href="./session-3/activity-2/"><code>activity-2/</code></a> - (Worksheet)</li>
+  <li><a href="./session-3/assessment/"><code>assessment/</code></a></li>
+</ul>
+</details>
